@@ -23,7 +23,7 @@ A Next.js application that empowers communities to share surplus food, reduce wa
 2. Install dependencies
    ```bash
    pnpm install
-```
+ ```
 
 3. Create a .env.local file in the root directory and add your Google Maps API key:
 
